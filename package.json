@@ -1,6 +1,6 @@
 {
   "name": "adminsmarttech",
-  "proxy": "https://api.testadmin-smarttechinsurance.co.in:10590",
+  "proxy": "https://93.127.206.91:10590",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

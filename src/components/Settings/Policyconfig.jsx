@@ -194,7 +194,7 @@ const Policyconfig = () => {
     e.preventDefault();
     setItModel(true);
 
-    // https://api.testadmin-smarttechinsurance.co.in:10590/configurable/get?fieldName=lob&property=policy&value=marine&insuranceProduct=cargo
+    // https://93.127.206.91:10590/configurable/get?fieldName=lob&property=policy&value=marine&insuranceProduct=cargo
 
    
   };

@@ -175,7 +175,7 @@ setMenu(SubUserMenu)
 
 const  handleLogout = () =>{
   
-  axios.post(`https://api.testadmin-smarttechinsurance.co.in:10590/logout/user?username=raj`, {
+  axios.post(`https://93.127.206.91:10590/logout/user?username=raj`, {
     auth: {
         Username: namee,
         Password: Password
